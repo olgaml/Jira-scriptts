@@ -7,7 +7,7 @@ exampleBtn.addEventListener('click', () => {
  var newmenubar= document.getElementById('ak-jira-navigation');
   newmenubar.style.display = 'none';
   window.open('https://olgame.atlassian.net/jira/secure/CreateIssue.jspa','New Issue','width=600,height=600,location=no,toolbar=no,menubar=no' );
- newmenubar= document.getElementById('ak-jira-navigation');
-  newmenubar.style.display = 'none';
+ //newmenubar= document.getElementById('ak-jira-navigation');
+  //newmenubar.style.display = 'none';
   alert('end');
 });
