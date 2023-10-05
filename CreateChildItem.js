@@ -1,7 +1,7 @@
 const exampleBtn = document.getElementById('createGlobalItem1');
 
 exampleBtn.addEventListener('click', () => {
-  //alert('start');
+  alert('start');
   //window.open('https://olgame.atlassian.net/jira/secure/CreateIssue.jspa', '_blank');
 //window.open('https://olgame.atlassian.net/jira/secure/CreateIssue.jspa',"Ratting","width=550,height=170,left=150,top=200,toolbar=0,status=0,");
  //var newmenubar= document.getElementById('ak-jira-navigation');
@@ -10,6 +10,6 @@ exampleBtn.addEventListener('click', () => {
  //newmenubar= document.getElementById('ak-jira-navigation');
   //newmenubar.style.display = 'none';
   //alert('end');
-  const exampleBtn = document.getElementById('createGlobalItem');
-   exampleBtn.click()
+  //const exampleBtn = document.getElementById('createGlobalItem');
+   //exampleBtn.click()
 });
