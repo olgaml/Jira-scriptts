@@ -16,7 +16,7 @@ input {
   border: 1px solid #aaaaaa;
 }
 
-.button{
+.button {
   appearance: button;
   backface-visibility: hidden;
   background-color: #405cf5;
