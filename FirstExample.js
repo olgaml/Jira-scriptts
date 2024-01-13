@@ -1,7 +1,7 @@
-function showSummary() {
+function showDetails() {
 
   const Bridge = window.AdaptavistBridgeContext;
-   Key = ${Bridge.context.issueKey}
+  
   AdaptavistBridge.request({
     url: `/rest/api/2/issue/${AdaptavistBridgeContext.context.issueKey}`,
     type: 'GET'
