@@ -2,7 +2,11 @@ div {
    background-color: #f2f2f2;
   
 }
-
+p {
+  color: navy;
+  text-indent: 30px;
+  text-transform: uppercase;
+}
 button {
   appearance: button;
   backface-visibility: hidden;
